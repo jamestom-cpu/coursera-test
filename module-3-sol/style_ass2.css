@@ -1,0 +1,23 @@
+
+body{
+
+}
+
+
+#OurMenu {
+	padding-top: 40px;
+	padding-bottom: 0; 
+	text-align: center;
+	color: #611F11;
+	font-family: 'Architects Daughter', cursive;
+	font-weight: bold;
+	font-size: 1.5em;
+
+}
+
+#MenuContent {
+	height: 2000px;
+	background-color: grey;
+	padding: 5vw;
+	margin: 3vw;
+}
